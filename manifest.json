@@ -1,0 +1,14 @@
+{
+  "name": "Trading Mastery",
+  "short_name": "Trading",
+  "description": "Trading education app with a daily Morning Minutes briefing",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3efe4",
+  "theme_color": "#14261f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

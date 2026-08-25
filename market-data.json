@@ -1,0 +1,340 @@
+{
+  "lastUpdated": "2026-08-21T20:00:00Z",
+  "lastUpdatedLabel": "Fri, Aug 21, 2026 \u00b7 4:00 PM ET (seed data \u2014 not yet refreshed live)",
+  "morningRead": [],
+  "priceWatch": [
+    {
+      "ticker": "SNOW",
+      "zoneLow": 230,
+      "zoneHigh": 245,
+      "note": "FVG + Fibonacci confluence \u2014 bullish structure, trend looks overextended, expecting a retracement into this zone before continuation.",
+      "currentPrice": null,
+      "status": "watching",
+      "lastChecked": null
+    }
+  ],
+  "weekOutlook": {
+    "rating": "Heavy",
+    "opportunity": "Moderate-High",
+    "risk": "Moderate-High",
+    "volatility": "High",
+    "summary": "One of the more catalyst-dense weeks of the month. Mega-cap earnings collide with the Fed's preferred inflation gauge and GDP on the same afternoon. Wednesday and Thursday carry the real risk; Monday is comparatively quiet, and Friday brings headline risk from Jackson Hole rather than earnings."
+  },
+  "catalysts": [
+    {
+      "day": "Wednesday",
+      "title": "The biggest day of the week",
+      "text": "NVDA reports after close on the same day as PCE inflation data and the GDP second estimate. Macro and the market's biggest single-stock mover, stacked."
+    },
+    {
+      "day": "Thursday",
+      "title": "MRVL reports + labor data",
+      "text": "MRVL after close, alongside weekly jobless claims and the advance goods trade balance. Second-biggest single-stock catalyst on the watchlist this week."
+    },
+    {
+      "day": "Friday",
+      "title": "Jackson Hole Symposium",
+      "text": "No major earnings, but Fed commentary here can move the entire market regardless of any individual name. Headline risk, not calendar risk."
+    }
+  ],
+  "topNamesToWatch": [
+    {
+      "ticker": "NVDA",
+      "reason": "Reports Wed after close \u2014 market bellwether, same day as PCE/GDP"
+    },
+    {
+      "ticker": "MRVL",
+      "reason": "Reports Thu after close \u2014 on your watchlist"
+    },
+    {
+      "ticker": "CRM",
+      "reason": "Reports Wed after close \u2014 enterprise software bellwether"
+    },
+    {
+      "ticker": "CRWD",
+      "reason": "Reports Wed after close \u2014 highest implied-move names tend to cluster around security/software"
+    },
+    {
+      "ticker": "INTU",
+      "reason": "Reports Tue after close \u2014 first major report of the week"
+    }
+  ],
+  "gamePlan": [
+    {
+      "period": "Mon\u2013Tue",
+      "level": "light",
+      "text": "Lighter calendar. Normal trading \u2014 a good window for setups that need a couple of clean sessions to build without a big scheduled catalyst in the way."
+    },
+    {
+      "period": "Wed\u2013Thu",
+      "level": "heavy",
+      "text": "The two heaviest days of the week. Size normally, respect stops \u2014 this is exactly the kind of stretch Rule 4 (2 losses = step back) exists for."
+    },
+    {
+      "period": "Fri",
+      "level": "moderate",
+      "text": "Jackson Hole can create sudden Fed-driven moves with no single-stock catalyst behind them. Rule 3 applies \u2014 if it's already been a good week, there's no reason to force anything into a headline-driven Friday."
+    }
+  ],
+  "marketPulse": [
+    {
+      "name": "S&P 500",
+      "value": "7,674.37",
+      "change": "+33.21 (+0.43%)",
+      "direction": "up"
+    },
+    {
+      "name": "Nasdaq Comp",
+      "value": "26,180.46",
+      "change": "+113.29 (+0.43%)",
+      "direction": "up"
+    },
+    {
+      "name": "Dow 30",
+      "value": "53,277.01",
+      "change": "+517.80 (+0.98%)",
+      "direction": "up"
+    },
+    {
+      "name": "Russell 2000",
+      "value": "3,017.87",
+      "change": "+25.44 (+0.85%)",
+      "direction": "up"
+    },
+    {
+      "name": "VIX",
+      "value": "15.13",
+      "change": "-0.88 (-5.50%)",
+      "direction": "down"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "MRVL",
+      "companyName": "Marvell Technology",
+      "price": "237.04",
+      "change": "-13.97 (-5.57%)",
+      "direction": "down",
+      "sparkline": [
+        268,
+        271,
+        265,
+        260,
+        258,
+        254,
+        251,
+        245,
+        237.04
+      ],
+      "earningsThisWeek": true,
+      "earningsNote": "\ud83d\udcc5 Reports Thursday 8/27, after close"
+    },
+    {
+      "ticker": "NVDA",
+      "companyName": "NVIDIA",
+      "price": "214.72",
+      "change": "-2.13 (-0.98%)",
+      "direction": "down",
+      "sparkline": [
+        206,
+        209,
+        212,
+        215,
+        218,
+        217,
+        216,
+        215,
+        214.72
+      ],
+      "earningsThisWeek": true,
+      "earningsNote": "\ud83d\udcc5 Reports Wednesday 8/26, after close"
+    },
+    {
+      "ticker": "MU",
+      "companyName": "Micron Technology",
+      "price": "966.78",
+      "change": "-7.55 (-0.77%)",
+      "direction": "down",
+      "sparkline": [
+        860,
+        890,
+        915,
+        940,
+        958,
+        972,
+        980,
+        974,
+        966.78
+      ],
+      "earningsThisWeek": false,
+      "earningsNote": "Not reporting this week \u2014 next date Sep 22"
+    },
+    {
+      "ticker": "SNDK",
+      "companyName": "SanDisk",
+      "price": "1,596.08",
+      "change": "-4.54 (-0.28%)",
+      "direction": "down",
+      "sparkline": [
+        1520,
+        1545,
+        1570,
+        1610,
+        1625,
+        1605,
+        1590,
+        1600,
+        1596.08
+      ],
+      "earningsThisWeek": false,
+      "earningsNote": "Not reporting this week \u2014 already reported Aug 5"
+    }
+  ],
+  "earningsCalendar": [
+    {
+      "day": "Monday",
+      "date": "Aug 24",
+      "econ": "8:30 AM \u2014 National Activity Index (July)",
+      "beforeOpen": [
+        "NCTY",
+        "NSSC",
+        "PDD",
+        "XPEV",
+        "XYF"
+      ],
+      "afterClose": [
+        "PICS",
+        "TUYA"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "date": "Aug 25",
+      "econ": "10:00 AM \u2014 New Home Sales, Consumer Confidence, Richmond Fed Index",
+      "beforeOpen": [
+        "BMO",
+        "BNS",
+        "BZ",
+        "CTRN",
+        "DKS",
+        "EH",
+        "GFI",
+        "SLQT",
+        "TOUR",
+        "VIPS"
+      ],
+      "afterClose": [
+        "BOX",
+        "ELMD",
+        "HEI",
+        "INTU",
+        "JOYY",
+        "NCNO",
+        "NOAH",
+        "QFIN",
+        "SMTC",
+        "STRT",
+        "ZM"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "date": "Aug 26",
+      "econ": "8:30 AM \u2014 PCE Price Index, Core PCE, Personal Income/Spending, GDP Q2 2nd estimate",
+      "beforeOpen": [
+        "ANF",
+        "BBWI",
+        "DCI",
+        "DY",
+        "HDL",
+        "JKS",
+        "KSS",
+        "LI",
+        "MOV",
+        "PLAB",
+        "SJM",
+        "TIGR",
+        "WSM",
+        "ZH"
+      ],
+      "afterClose": [
+        "A",
+        "AVAT",
+        "CRM",
+        "CRWD",
+        "HPQ",
+        "LTRX",
+        "NTNX",
+        "NVDA",
+        "OKTA",
+        "OOMA",
+        "P",
+        "SNPS",
+        "STDN",
+        "URBN",
+        "VEEV"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "date": "Aug 27",
+      "econ": "8:30 AM \u2014 Weekly Jobless Claims, Continuing Claims, Advance Goods Trade Balance",
+      "beforeOpen": [
+        "BBW",
+        "BBY",
+        "BURL",
+        "BZUN",
+        "CM",
+        "CSIG",
+        "DG",
+        "DLTR",
+        "GITU",
+        "HQY",
+        "HRL",
+        "LOT",
+        "MBUU",
+        "MTLS",
+        "RY",
+        "TD",
+        "TITN"
+      ],
+      "afterClose": [
+        "ADSK",
+        "AFRM",
+        "BBAR",
+        "ESTC",
+        "FINV",
+        "GAP",
+        "IREN",
+        "KTCC",
+        "MRVL",
+        "PD",
+        "RBRK",
+        "S",
+        "ULTA",
+        "WDAY"
+      ]
+    },
+    {
+      "day": "Friday",
+      "date": "Aug 28",
+      "econ": "10:00 AM \u2014 University of Michigan Consumer Sentiment (final)",
+      "beforeOpen": [
+        "BWLP",
+        "MNSO"
+      ],
+      "afterClose": [],
+      "note": "Jackson Hole Symposium \u2014 Fed commentary risk"
+    }
+  ],
+  "watchlistTickers": [
+    "MRVL",
+    "NVDA",
+    "MU",
+    "SNDK"
+  ],
+  "highlightTickers": [
+    "MRVL",
+    "NVDA"
+  ]
+}
